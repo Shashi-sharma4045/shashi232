@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**shashi232/shashi232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashi+Kant+Sharma" alt="Typing Animation" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=3000&color=00A2F7&center=true&vCenter=true&width=500&lines=%F0%9F%8E%93+B.Tech+CSE+Student+at+Amity+University;%F0%9F%92%BB+Aspiring+DevOps+Engineer;%F0%9F%A4%96+Exploring+Robotics+%26+IoT;%F0%9F%93%9A+Learning+Full+Stack+Development" alt="Multi-line Typing Animation" />
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shashi232&label=Profile%20views&color=0e75b6&style=flat" alt="shahi232" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shahi232&column=7&theme=flat&margin-w=15" alt="shahi232" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,js,linux,docker,aws,git,github" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+<p align="center">Loading
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/shashi-kant-sharma" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/shashi_kant_sharma" target="blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="mailto:shahikantsharmasks2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+
+<!-- Floating emoji -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXIwdHo2MGd2N3l1aWIyNzE1bWhhZ2hxdXF0aGk5dDc4bzZ1dmU4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="50%">
+</div>
