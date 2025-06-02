@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashi232&label=Profile%20views&color=0e75b6&style=flat" alt="shahi232" /> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahi232&column=7&theme=flat&margin-w=15" alt="shahi232" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shashi232&column=7&theme=flat&margin-w=15" alt="shahi232" />
   </a>
 </p>
 
