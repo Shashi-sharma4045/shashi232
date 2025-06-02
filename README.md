@@ -52,3 +52,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXIwdHo2MGd2N3l1aWIyNzE1bWhhZ2hxdXF0aGk5dDc4bzZ1dmU4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="50%">
 </div>
+
+###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shashi232&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shashi232&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi232&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
