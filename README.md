@@ -1,4 +1,5 @@
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashi+Kant+Sharma" alt="Typing Animation" />
 </h1>
@@ -33,6 +34,14 @@
 
 ---
 
+###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shashi232&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shashi232&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi232&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/shashi-kant-sharma" target="blank">
@@ -46,15 +55,7 @@
   </a>
 </p>
 
-
-
 <!-- Floating emoji -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXIwdHo2MGd2N3l1aWIyNzE1bWhhZ2hxdXF0aGk5dDc4bzZ1dmU4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="50%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJtZ3Q4d3J0Y2VqY2JkY3B2dWJ6eGJ0bGZ5b2R6d2R6eWJ1eGZ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JIX9t2j0ZTN9S/giphy.gif" width="60%">
 </div>
-
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shashi232&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashi232&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi232&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
