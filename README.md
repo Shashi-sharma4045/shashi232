@@ -57,5 +57,5 @@
 
 <!-- Floating emoji -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p2czVsYmkyamgxdGI4MHZuYWlobHNudHRueDNnMzl4dHZ2dTFwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XsNAXQl1E8ig8MHAhf/giphy.gif" width="50%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjAwYWMwa2hxd2syZzJkenZxeDQzdzQzMmFna2JwZGpmZTA3MTF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yx5ns1mSPBle0/giphy.gif" width="69%">
 </div>
